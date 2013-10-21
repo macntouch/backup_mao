@@ -1,0 +1,4 @@
+name|IP-address|username|pass|path
+station1|10.162.66.20|mtcl|wef2fUBui234|D:\scripts\backup_mao
+station2|10.162.66.24|mtcl|uobiu23UVY32|D:\scripts\backup_mao
+station3|10.162.67.4|mtcl|uiguiIG632|D:\scripts\backup_mao
